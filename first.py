@@ -1,0 +1,6 @@
+print("Hello word")
+print(3+4*7)
+print(5**3)
+a = input("Nhap vao so dau tien:")
+b = input("Nhap vao so thu 2:")
+print(int(a)+int(b))
